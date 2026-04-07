@@ -1,1 +1,0 @@
-def ajouter_tache():
